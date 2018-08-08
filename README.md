@@ -12,8 +12,8 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 
 * Exploratory data analysis with visualizations
 * Data cleaning
-Feature engineering
-Modeling
-Modelfine-tuning
+* Feature engineering
+* Modeling
+* Modelfine-tuning
 
 Competition Website: https://www.kaggle.com/c/titanic
