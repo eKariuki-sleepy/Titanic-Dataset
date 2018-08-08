@@ -10,8 +10,8 @@ Your score is the percentage of passengers you correctly predict. This is known 
 ### Solution
 In a form of a jupyter notebook, my solution goes through the basic steps of a data science pipeline:
 
-Exploratory data analysis with visualizations
-Data cleaning
+* Exploratory data analysis with visualizations
+* Data cleaning
 Feature engineering
 Modeling
 Modelfine-tuning
