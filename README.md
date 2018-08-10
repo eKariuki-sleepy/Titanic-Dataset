@@ -16,4 +16,6 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 * Modeling
 * Modelfine-tuning
 
+
+
 Competition Website: https://www.kaggle.com/c/titanic
