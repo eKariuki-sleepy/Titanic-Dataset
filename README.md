@@ -1,4 +1,4 @@
-# Titanic-Dataset: How to score ___ on the public leaderboard 
+# Titanic-Dataset: How to score 0.80861 on the public leaderboard (top10%)
 
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
@@ -16,6 +16,6 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 * Modeling
 * Modelfine-tuning
 
-
+Note that I have included a script with stacking for information only as it achive lower score.
 
 Competition Website: https://www.kaggle.com/c/titanic
