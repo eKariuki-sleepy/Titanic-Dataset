@@ -202,3 +202,12 @@ submission.head()
 
 #Note that I select to train the model in the full dataset not in the reduced as the computational time was
 # within acceptable limit, otherwise I would have trained my model with the reduced dataset.
+
+##### Solution with stacking : just comment everything betwwen line 183 to 201 and uncomment the following commands
+import stacking
+pred = stacking.model(data[:train_objs_num].values, y.ravel(),data[train_objs_num:].values)
+print(pred)
+submission = pd.DataFrame({ 'PassengerId': test.passengerid,
+                            'Survived': pred })
+submission.to_csv("submission.csv", index=False)
+submission.head()
